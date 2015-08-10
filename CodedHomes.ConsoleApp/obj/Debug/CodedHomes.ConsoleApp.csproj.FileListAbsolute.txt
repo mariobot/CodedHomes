@@ -1,0 +1,14 @@
+c:\users\juanguillermo\documents\visual studio 2013\Projects\CodedHomes\CodedHomes.ConsoleApp\bin\Debug\CodedHomes.ConsoleApp.exe.config
+c:\users\juanguillermo\documents\visual studio 2013\Projects\CodedHomes\CodedHomes.ConsoleApp\bin\Debug\CodedHomes.ConsoleApp.exe
+c:\users\juanguillermo\documents\visual studio 2013\Projects\CodedHomes\CodedHomes.ConsoleApp\bin\Debug\CodedHomes.ConsoleApp.pdb
+c:\users\juanguillermo\documents\visual studio 2013\Projects\CodedHomes\CodedHomes.ConsoleApp\bin\Debug\CodedHomes.Data.dll
+c:\users\juanguillermo\documents\visual studio 2013\Projects\CodedHomes\CodedHomes.ConsoleApp\bin\Debug\EntityFramework.dll
+c:\users\juanguillermo\documents\visual studio 2013\Projects\CodedHomes\CodedHomes.ConsoleApp\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\juanguillermo\documents\visual studio 2013\Projects\CodedHomes\CodedHomes.ConsoleApp\bin\Debug\CodedHomes.Models.dll
+c:\users\juanguillermo\documents\visual studio 2013\Projects\CodedHomes\CodedHomes.ConsoleApp\bin\Debug\CodedHomes.Data.pdb
+c:\users\juanguillermo\documents\visual studio 2013\Projects\CodedHomes\CodedHomes.ConsoleApp\bin\Debug\EntityFramework.xml
+c:\users\juanguillermo\documents\visual studio 2013\Projects\CodedHomes\CodedHomes.ConsoleApp\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\juanguillermo\documents\visual studio 2013\Projects\CodedHomes\CodedHomes.ConsoleApp\bin\Debug\CodedHomes.Models.pdb
+c:\users\juanguillermo\documents\visual studio 2013\Projects\CodedHomes\CodedHomes.ConsoleApp\obj\Debug\CodedHomes.ConsoleApp.csprojResolveAssemblyReference.cache
+c:\users\juanguillermo\documents\visual studio 2013\Projects\CodedHomes\CodedHomes.ConsoleApp\obj\Debug\CodedHomes.ConsoleApp.exe
+c:\users\juanguillermo\documents\visual studio 2013\Projects\CodedHomes\CodedHomes.ConsoleApp\obj\Debug\CodedHomes.ConsoleApp.pdb
