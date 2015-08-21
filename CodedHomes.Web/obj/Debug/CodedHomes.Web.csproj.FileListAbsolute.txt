@@ -82,3 +82,5 @@ C:\Users\JuanGuillermo\Documents\Visual Studio 2013\Projects\CodedHomes\CodedHom
 C:\Users\JuanGuillermo\Documents\Visual Studio 2013\Projects\CodedHomes\CodedHomes.Web\obj\Debug\CodedHomes.Web.csprojResolveAssemblyReference.cache
 C:\Users\JuanGuillermo\Documents\Visual Studio 2013\Projects\CodedHomes\CodedHomes.Web\obj\Debug\CodedHomes.Web.dll
 C:\Users\JuanGuillermo\Documents\Visual Studio 2013\Projects\CodedHomes\CodedHomes.Web\obj\Debug\CodedHomes.Web.pdb
+C:\Users\JuanGuillermo\Documents\Visual Studio 2013\Projects\CodedHomes\CodedHomes.Web\bin\EntityFramework.SqlServer.dll
+C:\Users\JuanGuillermo\Documents\Visual Studio 2013\Projects\CodedHomes\CodedHomes.Web\bin\EntityFramework.SqlServer.xml
