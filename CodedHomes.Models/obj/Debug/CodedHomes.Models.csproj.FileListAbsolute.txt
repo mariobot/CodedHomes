@@ -2,4 +2,3 @@ c:\users\juanguillermo\documents\visual studio 2013\Projects\CodedHomes\CodedHom
 c:\users\juanguillermo\documents\visual studio 2013\Projects\CodedHomes\CodedHomes.Models\bin\Debug\CodedHomes.Models.pdb
 c:\users\juanguillermo\documents\visual studio 2013\Projects\CodedHomes\CodedHomes.Models\obj\Debug\CodedHomes.Models.dll
 c:\users\juanguillermo\documents\visual studio 2013\Projects\CodedHomes\CodedHomes.Models\obj\Debug\CodedHomes.Models.pdb
-C:\Users\JuanGuillermo\Documents\Visual Studio 2013\Projects\CodedHomes\CodedHomes.Models\obj\Debug\CodedHomes.Models.csprojResolveAssemblyReference.cache
