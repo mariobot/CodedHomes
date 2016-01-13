@@ -14,10 +14,21 @@ namespace CodedHomes.Web
 	  routes.IgnoreRoute("{resource}.axd/{*pathInfo}");
 
 	  routes.MapRoute(
-	      name: "Default",
-	      url: "{controller}/{action}/{id}",
-	      defaults: new { controller = "Home", action = "Index", id = UrlParameter.Optional }
+	      "Default",                                              // Route name
+	      "{controller}/{action}/{id}",                           // URL with parameters
+	      new { controller = "Home", action = "Index", id = "" }  // Parameter defaults
 	  );
+
+	  //routes.MapRoute(
+	  //    name: "Default",
+	  //    url: "{controller}/{action}/{id}",
+	  //    defaults: new { controller = "Home", action = "About", id = UrlParameter.Optional }
+	  //);	  
+        }
+
+        protected void Application_Start()
+        {
+	  RegisterRoutes(RouteTable.Routes);
         }
     }
 }

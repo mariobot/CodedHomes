@@ -3,16 +3,33 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 using System.Web.Mvc;
+using CodedHomes.Data;
+using CodedHomes.Models;
 
 namespace CodedHomes.Web.Controllers
 {
     public class HomeController : Controller
     {
+        private DataContext context = new DataContext();         
+        private ApplicationUnit _unit = new ApplicationUnit();
+
         public ActionResult Index()
         {
-	  ViewBag.Message = "Modify this template to jump-start your ASP.NET MVC application.";
+	  //IQueryable<Home> _listHomes = this._unit.Homes.GetAll();
 
-	  return View();
+	  var _listHomes = "";
+
+	  return View();	  
+
+	  // Use this for test the application and the correct use of DataAcces Loyic
+	  //ApplicationUnit appUnit = new ApplicationUnit();
+	  //appUnit.Homes.Add(House1());
+	  //appUnit.SaveChanges();
+
+	  // Use this for test the application and the correct use of DataAcces Loyic
+	  //ApplicationUnit appUnit = new ApplicationUnit();
+	  //appUnit.Homes.Add(House2());
+	  //appUnit.SaveChanges();
         }
 
         public ActionResult About()
