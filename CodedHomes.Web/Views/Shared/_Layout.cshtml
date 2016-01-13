@@ -1,48 +1,48 @@
 ﻿<!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="utf-8" />
-    <title>@ViewBag.Title :: CodedHomes</title>
-    <link href="~/favicon.ico" rel="shortcut icon" type="image/x-icon" />
-    <meta name="viewport" content="width=device-width" />
-    @Styles.Render("~/Content/css")
+    <head>
+        <meta charset="utf-8" />
+        <title>@ViewBag.Title :: CodedHomes</title>
+        <link href="~/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        <meta name="viewport" content="width=device-width" />
+        @Styles.Render("~/Content/css")
     @*@Scripts.Render("~/bundles/modernizr")*@
     
-</head>
-<body class="container-fluid">
-    <header>
+    </head>
+    <body class="container-fluid">
+        <header>
         <nav class="navbar navbar-default">
             <div class="container-fluid">
                 <div class="navbar-header">		
                     <img src="#" alt="Home" class="navbar-brand" />
                     <a href="@Html.Action("Index","Home")" class="btn btn-primary navbar-btn">Home</a>
-                    @if (ViewBag.IncludeManifest != null)
-                    {
+		  @if (ViewBag.IncludeManifest != null)
+		    {
                         @Html.ActionLink("Manager Account", "","")
-                    }
-                    else
-                    {
-                        @Html.Partial("_LoginPartial")
-                    }
-                </div>
+		    }
+		    else
+		    {
+		        @Html.Partial("_LoginPartial")
+		    }
+	        </div>
             </div>
         </nav>
         <div class="row container-fluid">
             <div class="col-md-12">
                 <img src="~/Images/logo.png" alt="CodedHomes - Logo" />
-            </div>
-        </div>
-    </header>
+	    </div>
+	  </div>
+        </header>
 
     <article class="container-fluid">
-        @RenderBody()
-    </article>
-    <footer>
-        <p>&copy; @DateTime.Now.Year - CodedHomes By MaRioBoT</p>
-    </footer>
+            @RenderBody()
+        </article>
+        <footer>
+            <p>&copy; @DateTime.Now.Year - CodedHomes By MaRioBoT</p>
+        </footer>          
 
-    @RenderSection("breakout", required: false)
-    @Scripts.Render("~/bundles/site")
-    @RenderSection("scripts", required: false)
-</body>
+        @RenderSection("breakout", required: false)
+        @Scripts.Render("~/bundles/site")
+        @RenderSection("scripts", required: false)
+    </body>
 </html>
