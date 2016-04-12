@@ -1,0 +1,35 @@
+[33mcommit 8749bd395b8c30566eeaf38774698515e35b6594[m
+Author: Mario Andres Botero Florez <mario.botero@cafexport.com>
+Date:   Wed Jan 13 15:53:38 2016 -0500
+
+    intentando que funcione
+
+[33mcommit 3ff280af5673763ea9a278fba24bdd8919669542[m
+Author: Mario Andres Botero Florez <mario.botero@cafexport.com>
+Date:   Wed Jan 13 15:46:57 2016 -0500
+
+    Intento de recuperar la version funcional
+
+[33mcommit 01a92f0e319af64babd1ee7ab229da23d3cd6b58[m
+Author: Mario Andres Botero Florez <mario.botero@cafexport.com>
+Date:   Wed Jan 13 15:42:39 2016 -0500
+
+    error stack overflow proteger para devolverce a version
+
+[33mcommit f34bf35a42e098b9509019556163cf12e770740c[m
+Author: MaRioBoT <mario.botero@cafexport.com>
+Date:   Fri Aug 21 16:31:07 2015 -0500
+
+    add api controller
+
+[33mcommit c9ca6a6b9c09b537aab29dc267548a383c0a311e[m
+Author: MaRioBoT <mario.botero@cafexport.com>
+Date:   Wed Aug 19 17:38:48 2015 -0500
+
+    add CodedHomes.Web - add Bootstrap - add know ...
+
+[33mcommit c67f2d46fd1cf62b4490700570cdb51be569e968[m
+Author: MaRioBoT <mario.botero@cafexport.com>
+Date:   Mon Aug 10 14:39:45 2015 -0500
+
+    fist module all data acces layer
